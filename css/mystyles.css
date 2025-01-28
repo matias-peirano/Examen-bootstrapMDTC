@@ -5,6 +5,9 @@ footer{
     text-align: center;
 
 }
+footer a{
+    color: white;
+}
 .container{
     padding: 30px;
 }
